@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "types.h": "c",
-        "posix_types.h": "c",
-        "bitsperlong.h": "c"
-    }
-}
